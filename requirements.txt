@@ -1,0 +1,5 @@
+python-dotenv
+requests
+deepdiff
+jinja2
+pymisp
